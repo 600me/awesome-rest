@@ -233,6 +233,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Postman](https://www.postman.com/) - Cross-platform API development and testing platform.
 * [SoapUI](https://www.soapui.org/) - Cross-platform API testing tool for REST and SOAP APIs.
 * [RapidAPI](https://paw.cloud/) - Full-featured HTTP client for macOS.
+* [check-proxy-tax](https://github.com/600me/check-proxy-tax) - Zero-dependency CLI that fires a concurrent burst at one URL and reports the effective cost per 1,000 usable responses.
 
 ### Mocking
 
